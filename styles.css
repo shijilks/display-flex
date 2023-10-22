@@ -1,0 +1,16 @@
+body,h1{margin: 0%;
+text-align: center;}
+
+.container{background-color: lightcyan;
+display: flex;
+flex-direction: row;}
+
+.one,.two,.three{
+height: 30px;
+    width: 300px;
+    flex: 1px;
+    background-color: yellow;
+    border: 2px solid wheat;
+text-align:center;
+padding: 5px;
+}
